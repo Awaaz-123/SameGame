@@ -60,11 +60,11 @@ This makes the project ideal for **AI, logic programming, and declarative proble
 2. Add EmbASP libraries to the project
 3. Place the DLV2 solver inside the `lib/` directory
 4. Run:
-
-bash
 ---
+bash
 java MainClass
 
+---
 5. The AI will automatically start playing and the board will update visually
 
 --- Educational Value
