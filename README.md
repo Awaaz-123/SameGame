@@ -62,6 +62,7 @@ This makes the project ideal for **AI, logic programming, and declarative proble
 4. Run:
 
 bash
+---
 java MainClass
 
 5. The AI will automatically start playing and the board will update visually
